@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+/*Yep, I am going to answer you*/
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin:20px;
+    text-align:center;
+}
+h2{
+    background-color:aliceblue;
+    padding: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+
+}
+/*so,now i want creat css code of this html*/
+#typography{
+    margin-bottom:20px;
+}
+h1, h2, h3{
+    margin:5px 0;
+}
+/*this section for Colors*/
+#colors{
+    margin-bottom:20px;
+    text-align:center;
+}
+.orange {
+    color: orange;
+    text-align:center;
+}
